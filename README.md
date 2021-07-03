@@ -10,6 +10,9 @@ A website that offers digital marketing and reputation management services
 ## Website
 https://gstferrer.github.io/Horiseon-Social-Solution-Services/
 
+## Screenshot
+![Screenshot (7)](https://user-images.githubusercontent.com/85287460/124355821-c8032400-dbd8-11eb-85e7-d6c5acfd22ba.png)
+
 ## Contribution
 Made by Gregory Ferrer
 
