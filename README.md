@@ -8,7 +8,7 @@ A website that offers digital marketing and reputation management services
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://gstferrer.github.io/Horiseon-Social-Solution-Services/
 
 ## Contribution
 Made by Gregory Ferrer
