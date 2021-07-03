@@ -1,3 +1,4 @@
+/** removing default padding and margin styles, adjusting box-sizing **/
 * {
     box-sizing: border-box;
     padding: 0;
